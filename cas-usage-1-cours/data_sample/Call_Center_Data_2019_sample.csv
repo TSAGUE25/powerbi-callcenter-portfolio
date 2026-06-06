@@ -1,4 +1,4 @@
-﻿CallTimestamp,Call Type,EmployeeID,CallDuration,WaitTime,CallAbandoned
+CallTimestamp,Call Type,EmployeeID,CallDuration,WaitTime,CallAbandoned
 8/14/2019 10:31,1,T398672,1126,138,0
 10/6/2019 9:59,2,K915074,1320,69,0
 2/11/2019 19:28,2,G586239,1294,10,0
