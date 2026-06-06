@@ -259,6 +259,8 @@ F_Appels ──[Call Type]───► D_Charges (pour obtenir le coût)
                   (Tarification)
 ```
 
+![Modèle de données — Vue Power BI](screenshots/modele_donnees.png)
+
 ### Description de chaque table
 
 | Table | Type | Contenu | Clé |
@@ -505,6 +507,8 @@ CALCULATE(
 └─────────────────────────────────────────────────────────────┘
 ```
 
+![Page 1 — Vue Exécutive](screenshots/page1_vue_executive.png)
+
 ---
 
 ### Page 2 — Analyse Temporelle
@@ -517,6 +521,8 @@ CALCULATE(
 | **KPI affichés** | Volume · Taux d'abandon · Évolution YoY |
 | **Filtres** | Année · Mois · Type d'appel |
 | **Décision possible** | "Quand faut-il renforcer les équipes ?" |
+
+![Page 2 — Analyse Temporelle](screenshots/page2_analyse_temporelle.png)
 
 ---
 
@@ -531,6 +537,8 @@ CALCULATE(
 | **Filtres** | Année · Mois · Type d'appel |
 | **Décision possible** | "Quels agents ont besoin d'accompagnement ?" |
 
+![Page 3 — Performance des Agents](screenshots/page3_performance_agents.png)
+
 ---
 
 ### Page 4 — Qualité de Service
@@ -544,6 +552,8 @@ CALCULATE(
 | **Filtres** | Année · Type d'appel · Agent |
 | **Décision possible** | "Atteignons-nous notre objectif de 95% de taux de service ?" |
 
+![Page 4 — Qualité de Service](screenshots/page4_qualite_service.png)
+
 ---
 
 ### Page 5 — Analyse des Coûts
@@ -556,6 +566,8 @@ CALCULATE(
 | **KPI affichés** | Coût total · Coût par appel · Coût par type |
 | **Filtres** | Année · Type d'appel |
 | **Décision possible** | "Quel type d'appel coûte le plus cher ? Peut-on le numériser ?" |
+
+![Page 5 — Analyse des Coûts](screenshots/page5_analyse_couts.png)
 
 ---
 

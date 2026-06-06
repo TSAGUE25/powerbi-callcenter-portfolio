@@ -268,6 +268,8 @@ Les deux sources doivent avoir exactement les mêmes noms de colonnes avant la f
                        par type)
 ```
 
+![Modèle de données — Vue Power BI (Examen)](screenshots/modele_donnees.png)
+
 ### Description complète des tables
 
 #### F_Appels — Table de faits (cœur du modèle)
@@ -543,6 +545,8 @@ DIVIDE(
 | **Filtres** | Année · Type d'appel |
 | **Décision** | "2021 est-il une année normale ou une anomalie ?" |
 
+![Page 1 — Synthèse Exécutive 4 ans](screenshots/page1_synthese_executive.png)
+
 ---
 
 ### Page 2 — Analyse Temporelle Avancée
@@ -554,6 +558,8 @@ DIVIDE(
 | Courbe multi-série | Mois | Volume par année | "2021 suit-il la même saisonnalité que 2020 ?" |
 | Heatmap | Heure | Jour de la semaine | "Quand est-on le plus chargé ?" |
 | Barres groupées | Trimestre | Volume N vs N-1 | "Quel trimestre a le plus progressé ?" |
+
+![Page 2 — Analyse Temporelle Avancée](screenshots/page2_temporel_avance.png)
 
 ---
 
@@ -569,6 +575,8 @@ DIVIDE(
 | Slicer | Année · Type d'appel | Filtrage dynamique |
 
 > **Décision métier rendue possible :** "L'agent X a maintenu un taux d'abandon < 3% et une durée d'appel constante sur 4 ans, même en 2021 (télétravail). Il est candidat naturel à une promotion de superviseur."
+
+![Page 3 — Performance des Agents](screenshots/page3_performance_agents.png)
 
 ---
 
@@ -594,6 +602,8 @@ DIVIDE(
 └──────────────────────────────────────────────────────────────┘
 ```
 
+![Page 4 — Qualité de Service et Risques](screenshots/page4_qualite_service.png)
+
 ---
 
 ### Page 5 — Analyse des Coûts Opérationnels
@@ -607,6 +617,8 @@ DIVIDE(
 | Tableau | Coût par agent en 2021 |
 | Carte KPI | Coût moyen par appel 2021 vs 2020 |
 
+![Page 5 — Analyse des Coûts Opérationnels](screenshots/page5_couts_operationnels.png)
+
 ---
 
 ### Page 6 — Plan d'Action 2022
@@ -619,6 +631,8 @@ DIVIDE(
 | Renforcer les équipes le mardi entre 14h–17h | Heatmap horaire | Haute |
 | Réduire les appels Type 3 (réclamations) par amélioration service | Taux abandon Type 3 | Moyenne |
 | Évaluer la numérisation des demandes Type 1 (renseignements) | Coût par type | Basse |
+
+![Page 6 — Plan d'Action 2022](screenshots/page6_plan_action.png)
 
 ---
 
