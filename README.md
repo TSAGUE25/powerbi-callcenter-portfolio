@@ -16,7 +16,7 @@
 | **Rôle visé** | Data Scientist / Data Analyst — Performance commerciale, Énergie, Risque client |
 | **Compétences clés** | Power BI · DAX · Power Query · SQL · Python · Excel · Modélisation de données |
 | **Domaines** | Énergie / EDF · Commerce · Pilotage par les indicateurs · Industrialisation Data |
-| **Contact** | [LinkedIn](https://linkedin.com/in/emmanuel-tsague) · [GitHub](https://github.com/TSAGUE25) |
+| **Contact** | [LinkedIn](https://www.linkedin.com/in/emmanuel-tsague-114295414) · [GitHub](https://github.com/TSAGUE25) |
 
 ---
 
