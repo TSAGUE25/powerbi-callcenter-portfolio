@@ -1,4 +1,4 @@
-# Power BI — Portfolio de Compétences Data Analyst
+﻿# Power BI — Portfolio de Compétences Data Analyst
 ### Emmanuel TSAGUE | Data Scientist / Data Analyst
 
 ---
@@ -100,6 +100,13 @@ powerbi-callcenter-portfolio/
 5. **Ouvrir** le fichier `.pbix` avec Power BI Desktop (fichier disponible sur demande)
 
 > **Note :** Les fichiers `.pbix` ne sont pas versionnés (trop lourds pour Git standard). Contactez-moi directement pour les obtenir, ou consultez les captures d'écran dans `screenshots/`.
+
+
+## Contributors
+
+| Nom | Role | GitHub |
+|-----|------|--------|
+| **TSAGUE Emmanuel** | Data Scientist - auteur principal | [@TSAGUE25](https://github.com/TSAGUE25) |
 
 ---
 
