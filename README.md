@@ -16,7 +16,7 @@
 | **Rôle visé** | Data Scientist / Data Analyst — Performance commerciale, Énergie, Risque client |
 | **Compétences clés** | Power BI · DAX · Power Query · SQL · Python · Excel · Modélisation de données |
 | **Domaines** | Énergie / EDF · Commerce · Pilotage par les indicateurs · Industrialisation Data |
-| **Contact** | [LinkedIn](https://linkedin.com/in/) · [GitHub](https://github.com/) |
+| **Contact** | [LinkedIn](https://linkedin.com/in/emmanuel-tsague) · [GitHub](https://github.com/TSAGUE25) |
 
 ---
 
@@ -102,13 +102,26 @@ powerbi-callcenter-portfolio/
 > **Note :** Les fichiers `.pbix` ne sont pas versionnés (trop lourds pour Git standard). Contactez-moi directement pour les obtenir, ou consultez les captures d'écran dans `screenshots/`.
 
 
-## Contributors
+## Ce projet démontre
 
-| Nom | Role | GitHub |
-|-----|------|--------|
-| **TSAGUE Emmanuel** | Data Scientist - auteur principal | [@TSAGUE25](https://github.com/TSAGUE25) |
+- La capacité à **modéliser les données en étoile** (star schema : table de faits + dimensions) dans Power BI
+- La maîtrise de **Power Query (M)** pour nettoyer et transformer des données opérationnelles brutes
+- La création de **15+ mesures DAX** couvrant les KPI essentiels d'un centre d'appels (SLA, taux d'abandon, AHT, FCR)
+- La construction d'un **tableau de bord multi-pages** avec navigation intuitive et cohérence visuelle
+- La capacité à **raconter une décision métier** : passer de données d'appels à des recommandations de pilotage
+- La **documentation complète** d'un projet Power BI (dictionnaire, architecture, guide utilisateur, DAX commenté)
 
 ---
 
-*Projet réalisé dans le cadre de la formation Data Scientist — DataScientest (2024)*  
-*Données simulées à des fins pédagogiques — aucune donnée client réelle.*
+## Contributors
+
+| Nom | Rôle | GitHub |
+|-----|------|--------|
+| **TSAGUE Emmanuel** | Data Scientist — auteur principal | [@TSAGUE25](https://github.com/TSAGUE25) |
+
+---
+
+*Auteur : Emmanuel TSAGUE — Data Scientist / Data Analyst*
+*Formation : DataScientest | Domaines : Performance opérationnelle · Énergie · Finance*
+*Contact : emmatsague@yahoo.fr*
+*Données : simulées à des fins pédagogiques — aucune donnée client réelle*
